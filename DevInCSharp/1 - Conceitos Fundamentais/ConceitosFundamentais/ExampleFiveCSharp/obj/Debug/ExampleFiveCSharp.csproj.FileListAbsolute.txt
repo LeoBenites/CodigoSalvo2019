@@ -1,0 +1,5 @@
+D:\GitHub\CodigoSalvo2019\DevInCSharp\1 - Conceitos Fundamentais\ConceitosFundamentais\ExampleFiveCSharp\bin\Debug\ExampleFiveCSharp.dll
+D:\GitHub\CodigoSalvo2019\DevInCSharp\1 - Conceitos Fundamentais\ConceitosFundamentais\ExampleFiveCSharp\bin\Debug\ExampleFiveCSharp.pdb
+D:\GitHub\CodigoSalvo2019\DevInCSharp\1 - Conceitos Fundamentais\ConceitosFundamentais\ExampleFiveCSharp\obj\Debug\ExampleFiveCSharp.csproj.CoreCompileInputs.cache
+D:\GitHub\CodigoSalvo2019\DevInCSharp\1 - Conceitos Fundamentais\ConceitosFundamentais\ExampleFiveCSharp\obj\Debug\ExampleFiveCSharp.dll
+D:\GitHub\CodigoSalvo2019\DevInCSharp\1 - Conceitos Fundamentais\ConceitosFundamentais\ExampleFiveCSharp\obj\Debug\ExampleFiveCSharp.pdb

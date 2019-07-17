@@ -1,0 +1,6 @@
+D:\GitHub\CodigoSalvo2019\DevInCSharp\1 - Conceitos Fundamentais\ConceitosFundamentais\ExampleThreeCSharp\bin\Debug\ExampleThreeCSharp.dll
+D:\GitHub\CodigoSalvo2019\DevInCSharp\1 - Conceitos Fundamentais\ConceitosFundamentais\ExampleThreeCSharp\bin\Debug\ExampleThreeCSharp.pdb
+D:\GitHub\CodigoSalvo2019\DevInCSharp\1 - Conceitos Fundamentais\ConceitosFundamentais\ExampleThreeCSharp\obj\Debug\ExampleThreeCSharp.csprojAssemblyReference.cache
+D:\GitHub\CodigoSalvo2019\DevInCSharp\1 - Conceitos Fundamentais\ConceitosFundamentais\ExampleThreeCSharp\obj\Debug\ExampleThreeCSharp.csproj.CoreCompileInputs.cache
+D:\GitHub\CodigoSalvo2019\DevInCSharp\1 - Conceitos Fundamentais\ConceitosFundamentais\ExampleThreeCSharp\obj\Debug\ExampleThreeCSharp.dll
+D:\GitHub\CodigoSalvo2019\DevInCSharp\1 - Conceitos Fundamentais\ConceitosFundamentais\ExampleThreeCSharp\obj\Debug\ExampleThreeCSharp.pdb

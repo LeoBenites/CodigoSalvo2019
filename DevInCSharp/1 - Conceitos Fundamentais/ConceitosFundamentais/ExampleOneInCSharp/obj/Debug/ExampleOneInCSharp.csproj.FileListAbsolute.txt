@@ -1,0 +1,6 @@
+D:\GitHub\CodigoSalvo2019\DevInCSharp\1 - Conceitos Fundamentais\ConceitosFundamentais\ExampleOneInCSharp\bin\Debug\ExampleOneInCSharp.dll
+D:\GitHub\CodigoSalvo2019\DevInCSharp\1 - Conceitos Fundamentais\ConceitosFundamentais\ExampleOneInCSharp\bin\Debug\ExampleOneInCSharp.pdb
+D:\GitHub\CodigoSalvo2019\DevInCSharp\1 - Conceitos Fundamentais\ConceitosFundamentais\ExampleOneInCSharp\obj\Debug\ExampleOneInCSharp.csprojAssemblyReference.cache
+D:\GitHub\CodigoSalvo2019\DevInCSharp\1 - Conceitos Fundamentais\ConceitosFundamentais\ExampleOneInCSharp\obj\Debug\ExampleOneInCSharp.csproj.CoreCompileInputs.cache
+D:\GitHub\CodigoSalvo2019\DevInCSharp\1 - Conceitos Fundamentais\ConceitosFundamentais\ExampleOneInCSharp\obj\Debug\ExampleOneInCSharp.dll
+D:\GitHub\CodigoSalvo2019\DevInCSharp\1 - Conceitos Fundamentais\ConceitosFundamentais\ExampleOneInCSharp\obj\Debug\ExampleOneInCSharp.pdb
